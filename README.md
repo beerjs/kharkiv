@@ -1,8 +1,9 @@
-# BeerJS Kyiv
+# BeerJS Kharkiv
 
 Hello, fellas!
 
 BeerJS Kharkiv are the regular free-for-all meetings of javascript-community in Kharkiv, Ukraine.
+
 Usually those happen in some pub or cafe. In other words, at some suitable for conference-afterparty place.
 
 ## When and where?
