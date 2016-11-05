@@ -10,7 +10,7 @@ Usually those happen in some pub or cafe. In other words, at some suitable for c
 
 Please follow this repo' issues list and join us in social networks to know latest news and anounces or discuss future meetup's place and time.
 
-* [telegram](https://telegram.me/joinchat/CHNjGAkOd34QWd2VfXkVoQ)
+* [telegram](https://telegram.me/beerjskharkiv)
 
 ## Who are we waiting for, or can I join?
 
