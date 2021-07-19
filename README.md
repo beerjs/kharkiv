@@ -2,7 +2,7 @@
 
 Hello, fellas!
 
-BeerJS Kharkiv are the regular free-for-all meetings of javascript-community in Kharkiv, Ukraine.
+TeaJS Kharkiv are the regular free-for-all meetings of javascript-community in Kharkiv, Ukraine.
 
 Usually those happen in some pub or cafe. In other words, at some suitable for conference-afterparty place.
 
@@ -10,8 +10,10 @@ Usually those happen in some pub or cafe. In other words, at some suitable for c
 
 Please follow this repo' issues list and join us in social networks to know latest news and anounces or discuss future meetup's place and time.
 
-* [telegram](https://telegram.me/beerjskharkiv)
-* [facebook](https://fb.com/beerjskharkiv/)
+* [telegram](https://t.me/teajskharkiv)
+* [telegram channel](https://t.me/teajsinfo)
+* [facebook](https://www.facebook.com/teajskharkiv)
+* [instagram](https://www.instagram.com/teajskharkiv/)
 
 ## Who are we waiting for, or can I join?
 
